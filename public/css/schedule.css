@@ -1,0 +1,15 @@
+.green {
+    background-color: lightgreen;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.red {
+    background-color: salmon;
+}
+
+.default {
+    background-color: none;
+}
